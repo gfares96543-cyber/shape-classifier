@@ -46,7 +46,7 @@ if mode == "✏️ Draw shape":
         stroke_width=10,
         stroke_color="white",
         background_color="black",
-        width=300,
+        width=1000,
         height=300,
         drawing_mode="freedraw",
         key="canvas",
